@@ -1,6 +1,15 @@
-Tags: 备忘
+---
+layout: post
+title:  "Sublime Text 2 常用快捷键整理"
+date:   2017-08-03 15:14:54
+categories: 备忘
+excerpt: 
+---
 
-###Edit
+* content
+{:toc}
+
+## Edit
 ------
 
 - **Ctrl + Enter：**	在当前行下插入一行
@@ -21,7 +30,7 @@ Tags: 备忘
 - **Ctrl + Shift + V：**	粘贴并符合缩进
 - **Ctrl + U：**	回到上一操作(包括选取动作)
 
-###Navigation
+## Navigation
 ------
 - **Ctrl + P：**	快速打开文件
 - **Ctrl + R：**	快速跳转到(function, class, etc...)
@@ -31,19 +40,19 @@ Tags: 备忘
 - **Ctrl + PgDown：**	切换到下一个Tab
 - **Alt + [NUM]：**	切换到第[NUM]个Tab
 
-###General
+## General
 ------
 - **Ctrl + Shift + P：**	命令提示符(包含所有命令)
 - **Ctrl + K + B：**	显示/收起侧栏
 - **Ctrl + Shift + Alt + P：**	切换状态栏
 
-###Search/Replace
+## Search/Replace
 ------
 - **Ctrl + F：**	查找
 - **Ctrl + H：**	替换
 - **Ctrl + Shift + F**	项目中查找
 
-###View
+## View
 ------
 - **Alt + Shift + 1：**	   恢复初始状态
 - **Alt + Shift + (2, 3, 4)：**	垂直分割(2, 3, 4)个窗口
